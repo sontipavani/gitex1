@@ -1,1 +1,3 @@
 Hi this is file1
+
+Added extra line
